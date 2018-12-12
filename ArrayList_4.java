@@ -18,7 +18,9 @@ public class ArrayList_4 {
 			}else 
 				System.out.println("For the following input  [13,6,2,8,2,13] the output should be : FALSE");
 		
-		System.out.println("+++");
+		System.out.println("++++++");
+		
+		
 	}
 	
 }
